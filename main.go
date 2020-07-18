@@ -19,3 +19,7 @@ func ReadYamlByFile(file os.File) {
 func ReadYamlByStr(str string) {
 
 }
+
+func ReadYamlByByte(bytes []byte) {
+
+}
