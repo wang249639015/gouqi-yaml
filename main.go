@@ -8,14 +8,14 @@ func init() {
 
 }
 
-
-
-
-func ReadYaml(path string){
+func ReadYaml(path string) {
 
 }
 
-func ReadYamlByFile(file os.File){
+func ReadYamlByFile(file os.File) {
 
-	
+}
+
+func ReadYamlByStr(str string) {
+
 }
